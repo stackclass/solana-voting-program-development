@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+target/
+dist/
+
+# Environment variables
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Anchor
+.anchor/
+test-ledger/

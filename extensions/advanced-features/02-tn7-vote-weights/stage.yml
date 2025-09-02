@@ -1,0 +1,4 @@
+slug: tn7
+name: Weighted Voting System
+difficulty: hard
+description: Implement token-weighted voting system based on user balances

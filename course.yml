@@ -3,6 +3,14 @@ name: Solana Voting Program Development
 short_name: Solana Voting
 release_status: beta
 description: |-
-  Learn to build a decentralized voting application on Solana using Anchor framework.
-  Master Solana's account model, program instructions, and on-chain state management through hands-on development.
-summary: Build a decentralized voting app on Solana blockchain
+  Build a decentralized voting application on the Solana blockchain. In this challenge,
+  you'll create a secure, on-chain voting program using Anchor framework that allows
+  users to create polls, cast votes, and view results in a trustless manner.
+
+  Along the way, you'll learn about Solana's account model, program-derived addresses (PDAs),
+  cross-program invocations, and on-chain state management. You'll also master Rust for
+  Solana development and understand how to build secure, gas-efficient smart contracts.
+
+  By the end, you'll have a fully functional voting dApp that demonstrates core
+  Web3 concepts and Solana development best practices.
+summary: Build a decentralized voting application on Solana blockchain using Anchor framework

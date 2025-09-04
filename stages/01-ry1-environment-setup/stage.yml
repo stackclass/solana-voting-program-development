@@ -1,4 +1,4 @@
 slug: ry1
-name: Environment Setup and Initialization
+name: Setup Development Environment
 difficulty: very_easy
-description: Configure Solana development environment and create Anchor project structure
+description: Install and configure the Solana development environment on your local machine

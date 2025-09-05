@@ -38,12 +38,14 @@ contract to the blockchain, you must replace this with a unique program ID. The
 
 ## Tests
 
-The tester will verify that your program ID has been successfully updated from
-the default placeholder by executing:
+The tester will execute your program using the following command:
 
 ```bash
-grep "declare_id!" programs/voting-program/src/lib.rs
+./your_program.sh
 ```
+
+The tester will verify that your program ID has been successfully updated from
+the default placeholder value.
 
  ## Notes
 

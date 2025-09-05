@@ -1,4 +1,4 @@
 slug: dh5
-name: Data Handling
+name: Data Handling Implementation
 difficulty: medium
-description: Implement proposal initialization logic
+description: Implement the initialize_proposal function with data validation and storage

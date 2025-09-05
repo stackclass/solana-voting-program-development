@@ -1,4 +1,4 @@
 slug: vc6
-name: Vote Context
+name: Voting Context Structure
 difficulty: easy
-description: Define Vote account constraints
+description: Define the Vote context with proper account constraints

@@ -1,4 +1,4 @@
 slug: ct3
-name: Proposal Context
+name: Proposal Context Structure
 difficulty: easy
-description: Define InitializeProposal account constraints
+description: Define the InitializeProposal context with proper account constraints

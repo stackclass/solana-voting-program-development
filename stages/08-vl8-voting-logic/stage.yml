@@ -1,4 +1,4 @@
 slug: vl8
-name: Voting Logic
+name: Voting Logic Implementation
 difficulty: medium
-description: Implement vote counting with validation
+description: Implement the vote function with bounds checking and state updates

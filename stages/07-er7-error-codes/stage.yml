@@ -1,4 +1,4 @@
 slug: er7
-name: Error Codes
+name: Error Handling
 difficulty: easy
-description: Define custom error handling
+description: Define custom error codes for the voting program

@@ -7,9 +7,25 @@ environment, then generate a unique program ID for your voting smart contract.
    Documentation](https://www.anchor-lang.com/docs/installation) to install Rust
    programming language, Solana CLI tools, and Anchor framework.
 
+   The installation guide provides instructions for different platforms
+   including: **Windows (WSL)**, **Linux** and **Mac**.
+
+   For most users, we recommend the **Quick Installation** method which provides
+   the fastest setup path. The installation will include:
+
+   - **Rust**: The programming language used for Solana smart contracts.
+   - **Solana CLI**: Command-line tools for interacting with the Solana.
+   - **Anchor CLI**: Framework for developing Solana programs.
+
+   After installation, it's recommended to read about the basic usage of both
+   Solana CLI and Anchor CLI tools to understand their capabilities.
+
 2. **Configure Development Environment**: Set up your local development
    environment by following the [Anchor Quickstart
-   Guide](https://www.anchor-lang.com/docs/quickstart/local)
+   Guide](https://www.anchor-lang.com/docs/quickstart/local). This includes
+   configuring the Solana cluster, starting a local validator, creating a
+   development wallet, funding it with test SOL, and verifying your setup is
+   ready for development.
 
 3. **Generate Program ID**: Execute the command `anchor keys sync` to create a
    unique program ID for deployment

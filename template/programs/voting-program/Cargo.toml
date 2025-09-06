@@ -8,5 +8,4 @@ edition = "2021"
 crate-type = ["cdylib", "lib"]
 
 [dependencies]
-anchor-lang = { version = "0.29.0", features = ["init", "derive"] }
-anchor-spl = "0.29.0"
+anchor-lang = { version = "0.30.1", features = ["init-if-needed"] }

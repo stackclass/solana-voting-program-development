@@ -110,7 +110,7 @@ describe("voting-program", () => {
 
 Update your `Anchor.toml` to use devnet:
 
-```toml
+```text
 [provider]
 cluster = "devnet"
 wallet = "~/.config/solana/id.json"
@@ -165,12 +165,5 @@ The deployment process:
 ## Congratulations!
 
 You've now completed the full voting program development lifecycle - from
-environment setup to deployment. You've learned:
-
-- Solana account structure design
-- PDA initialization and management
-- Secure voting logic implementation
-- Comprehensive testing strategies
-- Production deployment procedures
-
-Your voting program is now ready for real-world use on the Solana blockchain!
+environment setup to deployment. Your voting program is now ready for real-world
+use on the Solana blockchain!
